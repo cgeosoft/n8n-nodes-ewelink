@@ -1,6 +1,6 @@
 {
   "name": "@cgeosoft/n8n-nodes-ewelink",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "n8n nodes for eWeLink v2 API - Control your smart home devices",
   "license": "MIT",
   "homepage": "https://github.com/cgeosoft/n8n-nodes-ewelink",
