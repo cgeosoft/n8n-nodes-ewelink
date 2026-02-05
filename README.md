@@ -1,6 +1,6 @@
 # @cgeosoft/n8n-nodes-ewelink
 
-![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+![Banner image](extras/screenshot.png)
 
 [![npm version](https://img.shields.io/npm/v/@cgeosoft/n8n-nodes-ewelink.svg)](https://www.npmjs.com/package/@cgeosoft/n8n-nodes-ewelink)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
